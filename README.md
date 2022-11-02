@@ -1,3 +1,3 @@
 # Tesla Website
 
-[Telsa Website](https://www.telsa.com)
+[Tesla Website](https://www.tesla.com)
